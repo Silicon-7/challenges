@@ -38,3 +38,10 @@ Your terminal does not have to look like this, but here are some guidelines:
 
 ![documents](3.png)
 
+
+[![video](video.jpg)](http://www.youtube.com/watch?v=MNCeb1w7y7o&feature=youtu.be)
+
+
+https://www.youtube.com/watch?v=MNCeb1w7y7o&feature=youtu.be
+
+
