@@ -26,8 +26,7 @@ A testing framework is the only gem or outside code you may use.
 
 Prove that it works with as much testing as is necessary with RSPEC (optional).
 
-
-Note Backstop does practice TDD/BDD so if you are brought on expect to learn about and write unit tests.
+Make the terminal prompts and views as user friendly as possible.
 
 ## Screen Shots
 
