@@ -1,6 +1,6 @@
 # Search Challenge
 
-Write a program in Ruby that emulates a database. However, you will not be using a database. You will be given a file and you will need to search the file using familiar terms, such as 'find'.
+Write a program in Ruby that emulates a database. However, you will not be using a database. You will be given a file [file.txt](file.txt) and you will need to search the file using familiar terms, such as 'find'.
 
 ## Goal 
 
