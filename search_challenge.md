@@ -21,7 +21,7 @@ Prove that it works with as mush testing as is necessary. If you are unfamiliar 
 
 ## Screen Shots
 
-Your terminal commands do not have to match these exactly, but here are some guidelines:
+Your terminal does not have to look like this, but here are some guidelines:
 
 ![investors](1.png)
 
