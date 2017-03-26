@@ -1,4 +1,4 @@
-[search_challenge.md](hi)
+[Search Challenge](search_challenge.md)
 
-[search_challenge.md](search_challenge.md)
+[Sodoku Challenge](sodoku_challenge.md)
 
