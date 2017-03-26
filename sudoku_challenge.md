@@ -42,13 +42,19 @@ Your challenge is to create a Ruby program that takes a string as an input (see 
 
 The input string for the unsolved puzzle above would look like this:
 
-060104050008305600200000001800407006006000300700901004500000002007206900040508070
+`060104050008305600200000001800407006006000300700901004500000002007206900040508070`
 
 ## Requirements
 
 Your program will be written in Ruby.
 
 Your program will run from the terminal by calling `ruby runner.rb`
+
+The sudoku puzzles that your program will solve can be found puzzles.txt file.
+
+Your program will read the file, input the string, and solve the puzzle (one at a time).
+
+Start by writing a program that just solves the first puzzle.
 
 
 
