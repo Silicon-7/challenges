@@ -6,19 +6,19 @@ You will create a Rails app that takes orders for a restaurant.
 
 Use postgresql to create your database.
 
-If you are feeling ambitious, post your site on your heroku page.
+Follow the user stories below.
+
+If you are feeling ambitious, post your site on your heroku page (optional).
 
 ## User Stories
 
-A user can create a username and password to log on.
-
-A user can log on and log off.
-
-A user can use a secure password.
+A user has an email and a secure password to log on.
 
 A user can create a new order.
 
 A user can add food and drinks (items) to an order.
+
+A user can remove items from an order.
 
 A user can see the subtotal, which changes as items are added to and removed from the order.
 
