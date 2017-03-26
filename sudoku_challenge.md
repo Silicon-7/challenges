@@ -18,7 +18,9 @@ Sodokus are simple number puzzles that often appear in various sources of print.
 +-------+-------+-------+
 ```
 
-The task is to fill in the remaining digits (1 through 9 only) such that each row, column, and 3 x 3 box contains exactly one of each digit. Here is the solution for the above puzzle:
+The task is to fill in the remaining digits (1 through 9 only) such that each row, column, and 3 x 3 box contains exactly one of each digit. Every row contains the digits 1-9, every column contains the digits 1-9, and every box contains the digits 1-9.
+
+Here is the solution for the above puzzle:
 
 ```
 +-------+-------+-------+
@@ -38,7 +40,7 @@ The task is to fill in the remaining digits (1 through 9 only) such that each ro
 
 ## The Challenge
 
-Your challenge is to create a Ruby program that takes a string as an input (see example below) and solves the Sudoku puzzle. 
+Your challenge is to create a Ruby program that takes a string as an input and solves the Sudoku puzzle. 
 
 The input string for the unsolved puzzle above would look like this:
 
@@ -52,11 +54,11 @@ Your program will run from the terminal by calling `ruby runner.rb`
 
 Your runner file will use 'require_relative' to reference the file that holds your logic.
 
-The sudoku puzzles that your program will solve can be found puzzles.txt file.
+The sudoku puzzles that your program will solve can be found [puzzles.txt](puzzles.txt) file.
 
-Your program will read the file, input the string, and solve the puzzle (one at a time).
+Your program will read the file, pull in the string representing an unsolved puzzle, and solve the puzzle (one puzzle at a time).
 
-Start by writing a program that just solves the first puzzle.
+Start by writing a program that just solves the first puzzle. The puzzles are harder toward the bottom of the text file.
 
 
 
