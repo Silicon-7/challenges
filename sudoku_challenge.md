@@ -2,6 +2,7 @@
 
 Sodokus are simple number puzzles that often appear in various sources of print. The puzzle you are given is a 9 x 9 grid of numbers and blanks, that might look something like this:
 
+```
 +-------+-------+-------+
 | _ 6 _ | 1 _ 4 | _ 5 _ |
 | _ _ 8 | 3 _ 5 | 6 _ _ |
@@ -15,9 +16,11 @@ Sodokus are simple number puzzles that often appear in various sources of print.
 | _ _ 7 | 2 _ 6 | 9 _ _ |
 | _ 4 _ | 5 _ 8 | _ 7 _ |
 +-------+-------+-------+
+```
 
 The task is to fill in the remaining digits (1 through 9 only) such that each row, column, and 3 x 3 box contains exactly one of each digit. Here is the solution for the above puzzle:
 
+```
 +-------+-------+-------+
 | 9 6 3 | 1 7 4 | 2 5 8 |
 | 1 7 8 | 3 2 5 | 6 4 9 |
@@ -31,6 +34,7 @@ The task is to fill in the remaining digits (1 through 9 only) such that each ro
 | 3 1 7 | 2 4 6 | 9 8 5 |
 | 6 4 2 | 5 9 8 | 1 7 3 |
 +-------+-------+-------+
+```
 
 ## The Challenge
 
