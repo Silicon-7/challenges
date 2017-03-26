@@ -2,6 +2,12 @@
 
 You will create a Rails app that takes orders for a restaurant. 
 
+## Guidelines
+
+Use postgresql to create your database.
+
+If you are feeling ambitious, post your site on your heroku page.
+
 ## User Stories
 
 A user can create a username and password to log on.
