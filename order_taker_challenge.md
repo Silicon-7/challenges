@@ -34,12 +34,12 @@ A user cannot edit an order that has been submitted.
 
 A user can see all past orders that have been placed by the user.
 
-An admin can add, edit, and delete food and drinks (items).
+A restaurant owner can add, edit, and delete food and drinks (items).
 
-An admin has the same username and password protocols as the user.
+A restaurant owner has the same username and password protocols as the user.
 
-An admin can log on to see orders that have been placed.
+A restaurant owner can log on to see orders that have been placed.
 
-An admin can fill an order, notifying the user that the order has been filled.
+A restaurant owner can fill an order, notifying the user that the order has been filled.
 
-An admin can see all submitted and filled orders.
+A restaurant owner can see all submitted and filled orders.
