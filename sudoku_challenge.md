@@ -1,6 +1,6 @@
-# Sodoku
+# Sudoku
 
-Sodokus are simple number puzzles that often appear in various sources of print. The puzzle you are given is a 9 x 9 grid of numbers and blanks, that might look something like this:
+Sudokus are simple number puzzles that often appear in various sources of print. The puzzle you are given is a 9 x 9 grid of numbers and blanks, that might look something like this:
 
 ```
 +-------+-------+-------+
