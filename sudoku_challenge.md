@@ -52,14 +52,11 @@ Your program will be written in Ruby.
 
 Your program will run from the terminal by calling `ruby runner.rb`
 
-Your runner file will use 'require_relative' to reference the file that holds your logic.
+Your runner file will use `require_relative` to reference the file that holds your logic.
 
 Your program will solve the puzzles here: [puzzles.txt](puzzles.txt)
 
-Your program will read the file, pull in the string representing an unsolved puzzle, and solve the puzzle (one puzzle at a time).
+Your program will read one of the puzzles in the file, pull in a string representing an unsolved puzzle, and solve the puzzle. Solve one puzzle at a time.
 
-Start by writing a program that just solves the first puzzle. The puzzles are harder toward the bottom of the text file.
-
-
-
+The first puzzle is the easiest and the puzzles become progressively harder.
 
