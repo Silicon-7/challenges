@@ -50,6 +50,8 @@ Your program will be written in Ruby.
 
 Your program will run from the terminal by calling `ruby runner.rb`
 
+Your runner file will use 'require_relative' to reference the file that holds your logic.
+
 The sudoku puzzles that your program will solve can be found puzzles.txt file.
 
 Your program will read the file, input the string, and solve the puzzle (one at a time).
