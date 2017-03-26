@@ -54,7 +54,7 @@ Your program will run from the terminal by calling `ruby runner.rb`
 
 Your runner file will use 'require_relative' to reference the file that holds your logic.
 
-Your program will solve the puzzles here: [puzzles.txt](puzzles.txt) file.
+Your program will solve the puzzles here: [puzzles.txt](puzzles.txt)
 
 Your program will read the file, pull in the string representing an unsolved puzzle, and solve the puzzle (one puzzle at a time).
 
