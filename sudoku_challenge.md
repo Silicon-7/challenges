@@ -38,7 +38,7 @@ Here is the solution for the above puzzle:
 +-------+-------+-------+
 ```
 
-## The Challenge
+## Goal
 
 Your challenge is to create a Ruby program that takes a string as an input and solves the Sudoku puzzle. 
 
@@ -46,7 +46,7 @@ The input string for the unsolved puzzle above would look like this:
 
 `060104050008305600200000001800407006006000300700901004500000002007206900040508070`
 
-## Requirements
+## Guidelines
 
 Your program will be written in Ruby.
 
